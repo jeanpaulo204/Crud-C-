@@ -1,4 +1,4 @@
-Olá, nesse projeto foi desenvolvido um crud no Visual Studio 2015 com linguagem <c++>
+Olá, nesse projeto foi desenvolvido um crud no Visual Studio 2015 com linguagem <c#>
 
 CRUD é a composição da primeira letra de 4 funções básicas de um sistema que trabalha com banco de dados:
 
